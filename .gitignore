@@ -1,0 +1,1 @@
+.venv/ echo output/ echo logs/ echo __pycache__/ echo .env echo *.log 
